@@ -11,12 +11,12 @@ author_profile: true
 Jaehui Kim, Seongbeom Kim, and Hee-Woong Kim. *Information Systems Research*, Under Review.
 
 **From Static to Dynamic: Theory-Driven Generative Personas for Strategic Simulation**<br>
-Jaehui Kim, Taijun Kang, and Hee-Woong Kim. *WITS 2026*, Submitted.
+Jaehui Kim, Taijun Kang, and Hee-Woong Kim. *WITS 2026*, <mark><em>Accepted</em></mark>.
 
 ## Journal Articles
 
 **[Bridging the AI Gap between Information Systems Research and Industry Practice](/publication/2026-bridging-ai-gap)**<br>
-Jaehui Kim, Hyunjung Choi, and Hee-Woong Kim. *Asia Pacific Journal of Information Systems (APJIS)*, 2026. *(Accepted)*
+Jaehui Kim, Hyunjung Choi, and Hee-Woong Kim. *Asia Pacific Journal of Information Systems (APJIS)*, Vol. 36, No. 2, in June 2026 (pp. 210–237).
 
 **[보이스피싱 탐지 프레임워크 개발: 보호동기이론에 기반한 이론적 접근](/publication/2025-master-thesis)**<br>
 김재희. 석사 학위논문, 연세대학교 정보대학원 AI 비즈니스 빅데이터 분석 트랙, 2025.
